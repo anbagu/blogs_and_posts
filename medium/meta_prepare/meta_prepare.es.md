@@ -356,7 +356,7 @@ Finished print_two_strings
 Esto ha sido todo. Como hemos comentado previamente hemos dado una resolución al problema desde la perspectiva de la metaclases.
 Si te ha  gustado, te invito a investigar y estudiar por tu cuenta.
 
-Si tienes alguna corrección o una sugerencia o una corrección puedes escribir a antoni.bayo@piperlab.es o bayocostur@gmail.com.
+Si tienes alguna corrección o una sugerencia puedes escribir a antoni.bayo@piperlab.es o bayocostur@gmail.com.
 
 ### Referencias
 > Por último cito las dos principales fuentes que me han ayudado para aprender sobre el tema e inventarme este ejemplo y escribir el post
